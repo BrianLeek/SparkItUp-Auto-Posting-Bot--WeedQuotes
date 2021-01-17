@@ -49,12 +49,14 @@ except ValueError:
 
 time.sleep(3)
 
-try:
-    if config.page_name:
-        driver.get(f"{config.website}{config.page_name}")
-    else:
-        pass
+if config.page_name:
+    driver.get(f"{config.website}{config.page_name}")
+else:
+    pass
 
+time.sleep(3)
+
+try:
     while config.send_posts:
         new_post_box = driver.find_element_by_xpath("//button[@data-target='#tagPostBox']")
         new_post_box.click()

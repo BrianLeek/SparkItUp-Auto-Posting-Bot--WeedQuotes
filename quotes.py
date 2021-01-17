@@ -22,7 +22,7 @@ quotes = [
     '"When you smoke the herb, it reveals you to yourself." — Bob Marley',
     '"I know you’re supposed to tell kids not to do drugs, but, kids, do it! Do weed! Don’t do the other stuff, but weed is good!" — Kevin Smith',
     '"Everything is better with a bag of weed." — Stewie Griffin',
-    '"Struggle is the enemy, but weed is the remedy." — Kid Cudi"When I was a kid I inhaled frequently. That was the point." —Barack Obama',
+    '"Struggle is the enemy, but weed is the remedy." — Kid Cudi',
     '"When I was a kid I inhaled frequently. That was the point." — Barack Obama',
     '"That is not a drug, it’s a leaf." — Arnold Schwarzenegger',
     '"If you ain’t got a good job and you ain’t smokin’ weed, then I dont know what the f--- you are doin’ with your life?" — Katt Williams',
